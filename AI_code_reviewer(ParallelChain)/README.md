@@ -41,8 +41,7 @@ This project demonstrates the use of **three different AI models from three diff
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/ai-code-reviewer.git
-cd ai-code-reviewer
+git clone https://github.com/anhaalishba/ai-with-streamlit/edit/main/AI_code_reviewer(ParallelChain)
 ```
 
 #### 2️⃣ Create and Activate a Virtual Environment
